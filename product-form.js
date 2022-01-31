@@ -1,4 +1,5 @@
 --------------------------------------------------
+Add this file to main-product.liquid
 Change product id (As you want ) in this file
 --------------------------------------------------
 
