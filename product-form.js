@@ -1,3 +1,8 @@
+--------------------------------------------------
+Change product id (As you want ) in this file
+--------------------------------------------------
+
+
 if (!customElements.get('product-form')) {
   customElements.define('product-form', class ProductForm extends HTMLElement {
     constructor() {
